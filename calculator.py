@@ -14,7 +14,7 @@ elif operator=="/":
     else:print(first/second)
 
 
-else: print("TF do you want me do to????")
+else: print(" ERROR!!!")
 
 
 
