@@ -38,11 +38,9 @@ Name = input("What is your name?")
 print(f"Sup {Name}")
 age1 = int(input("What is your age?"))
 if int(age1) < 18:
-    print("Diddy gon' get you")
+    print("Access denied")
 else:
-    print("You safe from Diddy")
-age1 = age1
-print(f"you {age1}? That's old as hell")
+    print("Access granted ")
 
 
 
