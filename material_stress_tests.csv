@@ -1,0 +1,11 @@
+Test_ID,Project_Name,Material_Type,Max_Load_kN,Status
+T101,Project Alpha,Titanium-Alloy,450.5,Passed
+T102,Project Alpha,Carbon-Fiber,620.3,Passed
+T103,Project Beta,Carbon-Fiber,,Passed
+T104,Project Alpha,Aluminum-Matrix,310.2,Passed
+T105,Project Gamma,Titanium-Alloy,-999.0,Failed
+T106,Project Beta,Aluminum-Matrix,295.8,Passed
+T107,Project Gamma,Carbon-Fiber,580.1,Passed
+T108,Project Alpha,Titanium-Alloy,440.0,Passed
+T109,Project Beta,Aluminum-Matrix,,Failed
+T110,Project Gamma,Aluminum-Matrix,305.4,Passed
