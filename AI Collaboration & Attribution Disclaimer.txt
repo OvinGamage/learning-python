@@ -1,0 +1,13 @@
+Project Integrity Statement
+
+This data pipeline was entirely architected, written, and executed locally by the author. Generative AI was utilized strictly as an interactive learning accelerator and pairs-programming collaborator during development.
+
+Extent of AI Assistance:
+
+Code Reviews & Debugging: AI was used to peer-review code structure and provide strategic feedback on handling runtime interpreter environment path conflicts (specifically isolating compiler frameworks from the global Python runtime).
+
+Syntax & Optimization Guidance: AI served as a reference desk to explore optimization methods (such as migrating separate operational arrays into streamlined, vectorized .groupby().agg() blocks) and to verify Matplotlib charting properties.
+
+Educational Logic Scaffolding: AI provided conditional logic templates for missing data treatment, but all final implementation logic, code edits, and pipeline configurations were executed manually by the author.
+
+ AI models used for these processes: Google Gemini
